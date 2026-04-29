@@ -17,3 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 [260224](work/260224.md)
+[常用命令](work/command_history.md)
